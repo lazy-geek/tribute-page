@@ -57,6 +57,13 @@ h3 {
     padding-top: 10px;
 }
 
+a {
+    color: #4e85de;
+}
+
+a:visited {
+     color: #5f4180;
+}
 @media (max-width: 460px) {
     #title {
         font-size: 30px;
